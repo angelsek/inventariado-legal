@@ -1,6 +1,6 @@
-# Inventariado — páginas legales
+# Stockeao — páginas legales
 
-Páginas públicas de la app **Inventariado** (requeridas por Google Play), publicadas con GitHub Pages:
+Páginas públicas de la app **Stockeao** (requeridas por Google Play), publicadas con GitHub Pages:
 
 - [Inicio](https://angelsek.github.io/inventariado-legal/)
 - [Política de privacidad](https://angelsek.github.io/inventariado-legal/privacidad.html)
